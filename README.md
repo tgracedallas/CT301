@@ -13,6 +13,7 @@ Install Visual Studio Code (VSC) to your local machine. https://code.visualstudi
 
 Install VSC extensions: Remote - SSH, Remote - SSH: Editing..., Remote Explorer, (all from Microsoft)
 
-In VSC in the bottom-left corner, select icon (Open a Remote Window)
+In VSC in the bottom-left corner, select icon (Open a Remote Window)<img width="1331" alt="VSC_openRemote" src="https://github.com/tgracedallas/CT301/assets/156542338/5c34636c-49fc-4941-98d7-c8c1f0f2a509">
+
 
 
