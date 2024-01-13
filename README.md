@@ -31,8 +31,9 @@ Then open your CT301 directory in VSC.
 Once you have opened your CT301 directory make a subdirectory/subfolder for assignment.
 <img width="1441" alt="VSC_makeFolder" src="https://github.com/tgracedallas/CT301/assets/156542338/2e46dfa1-8e1c-4c23-8d05-b7cf404ecafb">
 
-Copy your assignment files into the folder or make your own files as instructed. Make anothe subdirectory called .vscode. Then copy files launch.json, and tasks.json into the .vscode directory. 
+Copy your assignment files into the folder or make your own files as instructed. Make anothe subdirectory called .vscode. Then copy files launch.json, and tasks.json into the .vscode directory. (https://github.com/tgracedallas/CT301/blob/main/launch.json) ()
 <img width="1441" alt="VSC_make vscode" src="https://github.com/tgracedallas/CT301/assets/156542338/a1e04c26-76bf-4363-bc9f-0043cf10c71c">
+
 
 
 
