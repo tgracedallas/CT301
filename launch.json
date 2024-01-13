@@ -8,7 +8,10 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/game_test",
+            //if your make file generates an executable with a name same as the c file:
+            "program": "${workspaceFolder}/${fileBasenameNoExtension}",
+            //if your make file generates an executable with a name differnt from the c file:
+            //"program": "${workspaceFolder}/HW1",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
