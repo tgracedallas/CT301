@@ -13,7 +13,11 @@ Set up passwordless SSH access(recommend blank passphrase). https://sna.cs.colos
 
 Install Visual Studio Code (VSC) to your local machine. https://code.visualstudio.com/ 
 
-Install VSC extensions: Remote - SSH, Remote - SSH: Editing..., Remote Explorer, (all from Microsoft)
+Install VSC extensions: C/C++, C/C++ Themes, C/C++ Extention Pack, Remote - SSH, Remote - SSH: Editing..., Remote Explorer, CMake (by twxs), CMake Tools (all by Microsoft except for CMake)
+
+![IMG_2987](https://github.com/tgracedallas/CT301/assets/156542338/b535ddf1-2df7-4c4d-acce-ad3b781cc1d6)
+![IMG_0480](https://github.com/tgracedallas/CT301/assets/156542338/ee48c8ad-8dd2-4fb0-9c3e-097393ee967b)
+![IMG_0614](https://github.com/tgracedallas/CT301/assets/156542338/3758c172-c0ac-4f96-8b64-4a06c6c07a64)
 
 In VSC in the bottom-left corner, select icon (Open a Remote Window)<img width="1331" alt="VSC_openRemote" src="https://github.com/tgracedallas/CT301/assets/156542338/5c34636c-49fc-4941-98d7-c8c1f0f2a509">
 
@@ -24,14 +28,19 @@ Then in the box above the menu enter your_CS_username@machine-name.cs.colostate.
 
 Your screen should look like mine below.<img width="1333" alt="VSC_ssh_machineName" src="https://github.com/tgracedallas/CT301/assets/156542338/8f8573bb-0c3f-4502-9cf0-5e5681f8006b">
 
-Then open your CT301 directory in VSC.
-<img width="1441" alt="VSC_openDir" src="https://github.com/tgracedallas/CT301/assets/156542338/a762a9aa-eec5-4a1a-a26d-6dad8c2a7ae2">
+Then open your assigment directory in VSC.
+<img width="1441" alt="VSC_openHW" src="https://github.com/tgracedallas/CT301/assets/156542338/ed36ae54-df34-4c79-9c99-6acb0b1c084c">
 
-Once you have opened your CT301 directory make a subdirectory/subfolder for assignment.
-<img width="1441" alt="VSC_makeFolder" src="https://github.com/tgracedallas/CT301/assets/156542338/2e46dfa1-8e1c-4c23-8d05-b7cf404ecafb">
 
-Copy your assignment files into the folder or make your own files as instructed. Make anothe subdirectory called .vscode. Then copy files launch.json, and tasks.json into the .vscode directory. (https://github.com/tgracedallas/CT301/blob/main/launch.json) (https://github.com/tgracedallas/CT301/blob/main/tasks.json)
-<img width="1441" alt="VSC_make vscode" src="https://github.com/tgracedallas/CT301/assets/156542338/a1e04c26-76bf-4363-bc9f-0043cf10c71c">
+Copy your assignment files into the folder or make your own files as instructed. Make another subdirectory called .vscode. Then copy files launch.json, and tasks.json into the .vscode directory. (https://github.com/tgracedallas/CT301/blob/main/launch.json) (https://github.com/tgracedallas/CT301/blob/main/tasks.json)
+<img width="1441" alt="VSC_ vscodeUpdate" src="https://github.com/tgracedallas/CT301/assets/156542338/e6116180-4eaf-4e39-bed7-893304ff753d">
+
+Install CMake, CMake Tools, C/C++, C/C++ Extention Pack on your ssh machine.
+<img width="1441" alt="VSC_installinSSh" src="https://github.com/tgracedallas/CT301/assets/156542338/fc7b1d8c-b934-49a5-bb73-11e392a9a3d1">
+
+
+
+
 
 
 
