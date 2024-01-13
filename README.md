@@ -7,7 +7,7 @@ Set up and connect to the CSU VPN through Global Protect VPN. [na.cs.colostate.e
 
 SSH to a CSU Linux machine. You can find the machines on this website. https://sna.cs.colostate.edu/remote-connection/ssh/
 
-Set up passwordless SSH access(recommend blank passphrase). https://sna.cs.colostate.edu/remote-connection/ssh/keybased/ Verify that you can ssh to csu with simple command 'ssh your_CS_username@machine-name.cs.colostate.edu' in terminal. Then make your self a CT 301 directory. Then make yourself a directory for the specific assignment. 
+Set up passwordless SSH access(recommend blank passphrase). https://sna.cs.colostate.edu/remote-connection/ssh/keybased/ Verify that you can ssh to csu with simple command 'ssh your_CS_username@machine-name.cs.colostate.edu' in a terminal. Then make your self a CT 301 directory. Then make yourself a directory for the specific assignment. 
 
 <img width="762" alt="makeAssignmentDir" src="https://github.com/tgracedallas/CT301/assets/156542338/6e7690b7-b4c7-4399-a0bf-4a14aa5409a3">
 
