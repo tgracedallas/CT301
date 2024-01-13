@@ -35,8 +35,11 @@ Then open your assigment directory in VSC.
 Copy your assignment files into the folder or make your own files as instructed. Make another subdirectory called .vscode. Then copy files launch.json, and tasks.json into the .vscode directory. (https://github.com/tgracedallas/CT301/blob/main/launch.json) (https://github.com/tgracedallas/CT301/blob/main/tasks.json)
 <img width="1441" alt="VSC_ vscodeUpdate" src="https://github.com/tgracedallas/CT301/assets/156542338/e6116180-4eaf-4e39-bed7-893304ff753d">
 
-Install CMake, CMake Tools, C/C++, C/C++ Extention Pack on your ssh machine.
+Click on the extentions icon. Install CMake, CMake Tools, C/C++, C/C++ Extention Pack on your ssh machine.
 <img width="1441" alt="VSC_installinSSh" src="https://github.com/tgracedallas/CT301/assets/156542338/fc7b1d8c-b934-49a5-bb73-11e392a9a3d1">
+
+Once you have set up everything and have some code run. First select the file that has the code you want to test in it. Then the Run and Debug icon, once the debug window click on the green arrow to debug your code. <img width="1441" alt="VSC_debug" src="https://github.com/tgracedallas/CT301/assets/156542338/ecfc9d48-f714-4a16-9635-5408dc638414">
+
 
 
 
