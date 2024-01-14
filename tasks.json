@@ -1,11 +1,23 @@
+
+
 {
     "tasks": [
         {
+            //runs "make" to create some execuable
             "type": "shell",
             "label": "run the makefile",
             "command": "make",
             "args": [],
             "problemMatcher": [],
+            
+        },
+        {
+            //assumes only one execulatble file in directory, find it and link it to name
+            //vsc_executable so the Launch debug task can run on it
+            "label": "make & map the executable",
+            "type": "shell",
+            "command": " rm ./vsc_executable; find ./ -executable  -a -type f -a -maxdepth 1 -exec ln -s '{}' ./vsc_executable ';'",
+            "dependsOn": "run the makefile"
         }
     ],
     "version": "2.0.0"
